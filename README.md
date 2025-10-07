@@ -83,6 +83,3 @@ coupon_project/
 - Minor cleaning steps applied (e.g., `passanger` → `passenger`, income ranges → numeric midpoints).
 
 ---
-
-## 📬 Submission
-- Make your GitHub repository **public** and submit the **URL** per the course instructions.
