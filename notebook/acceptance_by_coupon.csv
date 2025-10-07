@@ -1,0 +1,6 @@
+coupon,acceptance_rate
+Carry out & Take away,0.735
+Restaurant(<20),0.707
+Coffee House,0.499
+Restaurant(20-50),0.441
+Bar,0.41

@@ -1,0 +1,26 @@
+coupon,time,passenger,destination,weather,expiration,acceptance_rate
+Restaurant(<20),10AM,Friend(s),No Urgent Place,Sunny,1d,1.0
+Restaurant(<20),10AM,Partner,No Urgent Place,Sunny,2h,1.0
+Coffee House,10AM,Kid(s),No Urgent Place,Rainy,1d,1.0
+Carry out & Take away,6PM,Kid(s),No Urgent Place,Rainy,1d,1.0
+Restaurant(<20),6PM,Partner,No Urgent Place,Sunny,1d,0.9767
+Restaurant(<20),2PM,Friend(s),No Urgent Place,Sunny,1d,0.9747
+Restaurant(<20),2PM,Alone,No Urgent Place,Sunny,1d,0.9558
+Restaurant(<20),6PM,Partner,No Urgent Place,Sunny,2h,0.9512
+Restaurant(<20),6PM,Friend(s),No Urgent Place,Sunny,1d,0.9316
+Carry out & Take away,10AM,Alone,No Urgent Place,Sunny,1d,0.9211
+Carry out & Take away,6PM,Friend(s),No Urgent Place,Sunny,1d,0.913
+Carry out & Take away,2PM,Friend(s),No Urgent Place,Sunny,1d,0.8895
+Coffee House,10AM,Friend(s),No Urgent Place,Sunny,1d,0.8636
+Restaurant(<20),6PM,Partner,Home,Sunny,1d,0.8571
+Carry out & Take away,10PM,Friend(s),No Urgent Place,Sunny,1d,0.8333
+Carry out & Take away,6PM,Alone,Home,Sunny,1d,0.8266
+Carry out & Take away,6PM,Alone,Home,Sunny,2h,0.8198
+Restaurant(<20),6PM,Kid(s),No Urgent Place,Sunny,2h,0.8148
+Restaurant(<20),2PM,Kid(s),No Urgent Place,Sunny,1d,0.811
+Restaurant(<20),10PM,Partner,No Urgent Place,Sunny,1d,0.8065
+Restaurant(<20),6PM,Friend(s),No Urgent Place,Sunny,2h,0.8045
+Restaurant(<20),7AM,Alone,Work,Sunny,1d,0.8013
+Restaurant(<20),2PM,Friend(s),No Urgent Place,Snowy,1d,0.8
+Restaurant(20-50),2PM,Partner,No Urgent Place,Sunny,1d,0.8
+Restaurant(<20),6PM,Alone,Home,Sunny,1d,0.8

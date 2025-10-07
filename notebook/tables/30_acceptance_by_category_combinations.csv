@@ -1,0 +1,153 @@
+coupon,time,passenger,destination,weather,expiration,acceptance_rate
+Restaurant(<20),10AM,Friend(s),No Urgent Place,Sunny,1d,1.0
+Restaurant(<20),10AM,Partner,No Urgent Place,Sunny,2h,1.0
+Coffee House,10AM,Kid(s),No Urgent Place,Rainy,1d,1.0
+Carry out & Take away,6PM,Kid(s),No Urgent Place,Rainy,1d,1.0
+Restaurant(<20),6PM,Partner,No Urgent Place,Sunny,1d,0.9767
+Restaurant(<20),2PM,Friend(s),No Urgent Place,Sunny,1d,0.9747
+Restaurant(<20),2PM,Alone,No Urgent Place,Sunny,1d,0.9558
+Restaurant(<20),6PM,Partner,No Urgent Place,Sunny,2h,0.9512
+Restaurant(<20),6PM,Friend(s),No Urgent Place,Sunny,1d,0.9316
+Carry out & Take away,10AM,Alone,No Urgent Place,Sunny,1d,0.9211
+Carry out & Take away,6PM,Friend(s),No Urgent Place,Sunny,1d,0.913
+Carry out & Take away,2PM,Friend(s),No Urgent Place,Sunny,1d,0.8895
+Coffee House,10AM,Friend(s),No Urgent Place,Sunny,1d,0.8636
+Restaurant(<20),6PM,Partner,Home,Sunny,1d,0.8571
+Carry out & Take away,10PM,Friend(s),No Urgent Place,Sunny,1d,0.8333
+Carry out & Take away,6PM,Alone,Home,Sunny,1d,0.8266
+Carry out & Take away,6PM,Alone,Home,Sunny,2h,0.8198
+Restaurant(<20),6PM,Kid(s),No Urgent Place,Sunny,2h,0.8148
+Restaurant(<20),2PM,Kid(s),No Urgent Place,Sunny,1d,0.811
+Restaurant(<20),10PM,Partner,No Urgent Place,Sunny,1d,0.8065
+Restaurant(<20),6PM,Friend(s),No Urgent Place,Sunny,2h,0.8045
+Restaurant(<20),7AM,Alone,Work,Sunny,1d,0.8013
+Restaurant(<20),2PM,Friend(s),No Urgent Place,Snowy,1d,0.8
+Restaurant(20-50),2PM,Partner,No Urgent Place,Sunny,1d,0.8
+Restaurant(<20),6PM,Alone,Home,Sunny,1d,0.8
+Carry out & Take away,10PM,Alone,Home,Sunny,1d,0.7946
+Carry out & Take away,10AM,Kid(s),No Urgent Place,Sunny,1d,0.7917
+Carry out & Take away,6PM,Kid(s),No Urgent Place,Rainy,2h,0.7879
+Carry out & Take away,6PM,Partner,Home,Rainy,1d,0.7857
+Restaurant(<20),10AM,Alone,No Urgent Place,Snowy,1d,0.7838
+Carry out & Take away,10PM,Alone,Home,Snowy,1d,0.7632
+Carry out & Take away,10PM,Partner,Home,Sunny,2h,0.7576
+Carry out & Take away,2PM,Alone,No Urgent Place,Rainy,2h,0.7568
+Restaurant(<20),10AM,Partner,No Urgent Place,Snowy,1d,0.75
+Carry out & Take away,7AM,Alone,Work,Sunny,1d,0.7436
+Carry out & Take away,10AM,Kid(s),No Urgent Place,Sunny,2h,0.7385
+Carry out & Take away,10AM,Friend(s),No Urgent Place,Snowy,1d,0.7356
+Carry out & Take away,10PM,Friend(s),No Urgent Place,Snowy,1d,0.7356
+Restaurant(<20),6PM,Friend(s),No Urgent Place,Rainy,2h,0.7333
+Coffee House,10AM,Kid(s),No Urgent Place,Sunny,1d,0.72
+Restaurant(<20),10PM,Alone,No Urgent Place,Sunny,1d,0.7191
+Restaurant(<20),2PM,Friend(s),No Urgent Place,Sunny,2h,0.7179
+Coffee House,7AM,Alone,Work,Snowy,1d,0.7176
+Coffee House,6PM,Friend(s),No Urgent Place,Sunny,1d,0.7126
+Restaurant(<20),6PM,Alone,Home,Sunny,2h,0.7069
+Restaurant(<20),10AM,Alone,No Urgent Place,Sunny,2h,0.6941
+Carry out & Take away,10AM,Partner,No Urgent Place,Rainy,2h,0.6875
+Restaurant(20-50),10AM,Partner,No Urgent Place,Sunny,1d,0.6857
+Coffee House,10PM,Friend(s),No Urgent Place,Sunny,1d,0.6827
+Carry out & Take away,7AM,Alone,Work,Rainy,1d,0.6824
+Coffee House,10AM,Partner,No Urgent Place,Sunny,2h,0.6706
+Carry out & Take away,7AM,Alone,Work,Sunny,2h,0.6685
+Coffee House,6PM,Alone,No Urgent Place,Sunny,1d,0.6667
+Restaurant(20-50),6PM,Kid(s),Home,Sunny,1d,0.6667
+Coffee House,10AM,Alone,No Urgent Place,Sunny,1d,0.6636
+Coffee House,10AM,Friend(s),No Urgent Place,Sunny,2h,0.6633
+Bar,6PM,Partner,No Urgent Place,Sunny,1d,0.6585
+Coffee House,10AM,Alone,No Urgent Place,Rainy,1d,0.6552
+Restaurant(<20),10AM,Friend(s),No Urgent Place,Sunny,2h,0.6486
+Carry out & Take away,10AM,Friend(s),No Urgent Place,Sunny,2h,0.6466
+Restaurant(<20),2PM,Alone,No Urgent Place,Sunny,2h,0.6415
+Bar,6PM,Alone,Home,Sunny,1d,0.6333
+Carry out & Take away,7AM,Alone,Work,Snowy,1d,0.6316
+Restaurant(<20),10PM,Partner,Home,Sunny,1d,0.625
+Restaurant(<20),10AM,Kid(s),No Urgent Place,Sunny,1d,0.625
+Coffee House,6PM,Kid(s),No Urgent Place,Sunny,1d,0.625
+Restaurant(<20),10AM,Kid(s),No Urgent Place,Sunny,2h,0.6154
+Coffee House,10PM,Alone,Home,Rainy,1d,0.6087
+Carry out & Take away,10AM,Friend(s),No Urgent Place,Rainy,2h,0.6
+Coffee House,6PM,Partner,Home,Rainy,1d,0.6
+Restaurant(<20),10PM,Friend(s),No Urgent Place,Sunny,2h,0.5977
+Coffee House,2PM,Kid(s),No Urgent Place,Sunny,1d,0.5965
+Coffee House,2PM,Friend(s),No Urgent Place,Sunny,1d,0.5915
+Bar,10PM,Friend(s),No Urgent Place,Sunny,2h,0.5882
+Bar,10AM,Friend(s),No Urgent Place,Sunny,1d,0.5875
+Bar,10PM,Friend(s),No Urgent Place,Sunny,1d,0.5765
+Coffee House,7AM,Alone,Work,Sunny,1d,0.5654
+Coffee House,10AM,Alone,No Urgent Place,Sunny,2h,0.5632
+Coffee House,10AM,Partner,No Urgent Place,Sunny,1d,0.5517
+Restaurant(20-50),6PM,Alone,Home,Sunny,1d,0.5449
+Restaurant(<20),2PM,Kid(s),No Urgent Place,Sunny,2h,0.5417
+Restaurant(20-50),6PM,Kid(s),Home,Sunny,2h,0.5417
+Bar,6PM,Kid(s),Home,Sunny,2h,0.5417
+Restaurant(20-50),7AM,Alone,Work,Sunny,1d,0.5414
+Restaurant(20-50),10PM,Alone,No Urgent Place,Sunny,1d,0.5333
+Coffee House,6PM,Partner,Home,Sunny,1d,0.5152
+Restaurant(20-50),2PM,Kid(s),No Urgent Place,Sunny,1d,0.5152
+Coffee House,2PM,Partner,No Urgent Place,Sunny,2h,0.5116
+Restaurant(20-50),2PM,Friend(s),No Urgent Place,Sunny,2h,0.5057
+Restaurant(20-50),10AM,Partner,No Urgent Place,Sunny,2h,0.5
+Coffee House,10AM,Kid(s),No Urgent Place,Sunny,2h,0.5
+Carry out & Take away,10PM,Partner,No Urgent Place,Rainy,1d,0.5
+Restaurant(<20),10PM,Partner,Home,Sunny,2h,0.5
+Restaurant(20-50),10PM,Kid(s),Home,Sunny,1d,0.5
+Coffee House,2PM,Friend(s),No Urgent Place,Sunny,2h,0.4981
+Restaurant(<20),2PM,Partner,No Urgent Place,Rainy,2h,0.4839
+Bar,10PM,Friend(s),No Urgent Place,Rainy,2h,0.4828
+Coffee House,2PM,Partner,No Urgent Place,Snowy,2h,0.4688
+Bar,6PM,Partner,No Urgent Place,Sunny,2h,0.4651
+Restaurant(20-50),2PM,Friend(s),No Urgent Place,Sunny,1d,0.4595
+Coffee House,2PM,Kid(s),No Urgent Place,Sunny,2h,0.4583
+Coffee House,6PM,Alone,No Urgent Place,Sunny,2h,0.4483
+Restaurant(<20),7AM,Alone,Work,Snowy,1d,0.4444
+Coffee House,6PM,Alone,Home,Sunny,1d,0.4394
+Bar,10AM,Partner,No Urgent Place,Sunny,1d,0.4375
+Restaurant(20-50),7AM,Alone,Work,Rainy,1d,0.4348
+Bar,10PM,Alone,Home,Sunny,1d,0.4231
+Restaurant(20-50),10PM,Kid(s),No Urgent Place,Sunny,1d,0.4231
+Restaurant(20-50),10PM,Alone,Home,Sunny,1d,0.4206
+Bar,2PM,Partner,No Urgent Place,Sunny,1d,0.4167
+Bar,10AM,Alone,No Urgent Place,Sunny,1d,0.4052
+Restaurant(20-50),7AM,Alone,Work,Snowy,1d,0.4023
+Restaurant(<20),10PM,Alone,Home,Sunny,2h,0.4017
+Coffee House,6PM,Alone,Home,Snowy,1d,0.396
+Restaurant(20-50),10PM,Friend(s),No Urgent Place,Rainy,2h,0.3947
+Bar,6PM,Partner,No Urgent Place,Rainy,2h,0.3929
+Bar,10AM,Alone,No Urgent Place,Rainy,1d,0.3882
+Coffee House,6PM,Friend(s),No Urgent Place,Sunny,2h,0.3875
+Bar,7AM,Alone,Work,Sunny,1d,0.3826
+Bar,6PM,Alone,Home,Rainy,1d,0.382
+Bar,7AM,Alone,Work,Snowy,1d,0.3765
+Coffee House,7AM,Alone,Work,Sunny,2h,0.3587
+Bar,2PM,Alone,No Urgent Place,Snowy,1d,0.3333
+Restaurant(20-50),6PM,Friend(s),No Urgent Place,Sunny,2h,0.3333
+Carry out & Take away,10PM,Kid(s),Home,Sunny,2h,0.3333
+Restaurant(<20),7AM,Alone,Work,Rainy,2h,0.3226
+Carry out & Take away,7AM,Alone,Work,Rainy,2h,0.3146
+Bar,10PM,Partner,Home,Sunny,1d,0.3103
+Bar,7AM,Alone,Work,Rainy,1d,0.3077
+Bar,6PM,Alone,Home,Sunny,2h,0.3069
+Restaurant(<20),7AM,Alone,Work,Snowy,2h,0.3069
+Coffee House,10PM,Alone,Home,Rainy,2h,0.3059
+Coffee House,6PM,Alone,Home,Sunny,2h,0.2981
+Bar,10PM,Partner,Home,Sunny,2h,0.2963
+Restaurant(20-50),6PM,Alone,Home,Sunny,2h,0.2353
+Bar,6PM,Kid(s),No Urgent Place,Snowy,1d,0.2333
+Restaurant(20-50),10PM,Alone,Home,Snowy,2h,0.2069
+Restaurant(20-50),7AM,Alone,Work,Sunny,2h,0.2029
+Restaurant(<20),10PM,Alone,Home,Snowy,2h,0.2022
+Coffee House,6PM,Kid(s),No Urgent Place,Sunny,2h,0.2
+Restaurant(<20),7AM,Alone,Work,Sunny,2h,0.2
+Bar,10AM,Partner,No Urgent Place,Sunny,2h,0.1905
+Coffee House,10PM,Alone,Home,Snowy,2h,0.1765
+Restaurant(20-50),10PM,Kid(s),Home,Snowy,2h,0.1667
+Bar,10AM,Kid(s),No Urgent Place,Sunny,1d,0.1385
+Bar,10AM,Kid(s),No Urgent Place,Sunny,2h,0.125
+Bar,10PM,Kid(s),No Urgent Place,Rainy,1d,0.1212
+Restaurant(20-50),10PM,Kid(s),Home,Sunny,2h,0.1154
+Restaurant(20-50),10PM,Kid(s),No Urgent Place,Sunny,2h,0.1111
+Bar,10PM,Partner,Home,Rainy,1d,0.0
+Bar,2PM,Partner,No Urgent Place,Snowy,1d,0.0
+Restaurant(20-50),10PM,Partner,No Urgent Place,Rainy,2h,0.0
